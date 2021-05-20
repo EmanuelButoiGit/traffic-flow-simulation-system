@@ -1,0 +1,19 @@
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\bin\Debug\ProiectSisteme.exe
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\bin\Debug\ProiectSisteme.exe.config
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.Form1.resources
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.Properties.Resources.resources
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.csproj.GenerateResource.Cache
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.exe
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.pdb
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\bin\Debug\ProiectSisteme.pdb
+C:\Users\Mr. Emy\Documents\Visual Studio 2015\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.csprojResolveAssemblyReference.cache
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.csprojAssemblyReference.cache
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.Form1.resources
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.Properties.Resources.resources
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.csproj.GenerateResource.cache
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.csproj.CoreCompileInputs.cache
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\bin\Debug\ProiectSisteme.exe.config
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\bin\Debug\ProiectSisteme.exe
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\bin\Debug\ProiectSisteme.pdb
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.exe
+D:\Proiecte\Projects\ProiectSisteme\ProiectSisteme\obj\Debug\ProiectSisteme.pdb
